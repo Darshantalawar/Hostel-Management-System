@@ -1,0 +1,22 @@
+# React
+hostel-ui/node_modules/
+hostel-ui/dist/
+
+# Spring Boot
+hostel-backend/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
